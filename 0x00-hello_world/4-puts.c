@@ -1,7 +1,7 @@
-/*
+/**
  *  main - A program that prints a line with puts function
- *  return: 0 
- *  */
+ *  Return: 0 (Success)
+ */
 #include <stdio.h>
 int main(void)
 {
