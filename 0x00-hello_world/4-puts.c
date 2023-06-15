@@ -1,5 +1,6 @@
+/*Function Declartion*/
 int main(void)
 {
-	puts ("\"Programming is like building a multilinugual puzzle");
-	return (0);
+puts("\"Programming is like building a multilinugual puzzle");
+return (0);
 }
